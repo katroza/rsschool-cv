@@ -20,3 +20,13 @@ I want to get knowledge and skills.
 * JavaScript Basics
 * Git, GitHub
 * VS Code
+
+## Code examples:
+
+``` 
+function multiply(a, b){
+  console.log(a * b);
+  return a * b;
+}
+```
+
