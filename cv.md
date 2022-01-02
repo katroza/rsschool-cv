@@ -14,3 +14,9 @@ I’m interested in Web Development because this occupation provides endless pos
 My goal is to learn everything new and exciting. 
 I want to get knowledge and skills.
 
+## Skills:
+
+* HTML5, CSS3 
+* JavaScript Basics
+* Git, GitHub
+* VS Code
