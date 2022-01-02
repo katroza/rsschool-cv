@@ -30,3 +30,10 @@ function multiply(a, b){
 }
 ```
 
+## Courses:
+
+* HTML and CSS on the CanSheCode 
+* JavaScript Manual on learnjavascript.ru 
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+
