@@ -1,10 +1,17 @@
 * {
     box-sizing: border-box;
   }
+  html {
+    scroll-behavior: smooth; 
+  }
 body{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
 }
 .container {
     max-width: 1440px;
@@ -33,6 +40,7 @@ body{
   .nav-link:hover {
       text-transform: uppercase;
       color: white;
+      cursor: pointer
   }
   .st {
       margin-right: auto;
