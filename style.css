@@ -45,3 +45,8 @@ body{
   .st {
       margin-right: auto;
   }
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
