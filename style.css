@@ -49,4 +49,30 @@ body{
     display: flex;
     flex-wrap: wrap;
   }
-  
+  .section {
+    width: 50%;
+  }
+  .main {
+
+  }
+  .profile-photo {
+      width: 200px;
+  }
+.section-profile {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 50px 30px 35px;
+    border-bottom: 10 px solid #d7d1c9;
+}
+.main-title {
+    font-size: 32px;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.section-subtitle {
+    font-size: 21px;
+    text-transform: uppercase;
+}
+
+
